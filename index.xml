@@ -6,765 +6,1122 @@
     <description>Recent content on Faximilie</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <title>Simple Opsec</title>
+      <link>/post/simple-opsec/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/courses/example/example1/</guid>
+      <guid>/post/simple-opsec/</guid>
+      <description>&lt;p&gt;This website looks very bare, not many projects and posts. There&amp;rsquo;s a big reason why it&amp;rsquo;s so empty, Opsec.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve spent a lot of my life protecting my identities from a real life counterpart. Thus protecting me from fallout of my poor decisions in my youth. Now that I&amp;rsquo;m in my 20s, and looking for work, I do need an identity closely tied to my real life identity. So this identity was created to facilitate that, so that I can still provide personal details publicly without cross contaminating with other identities.&lt;/p&gt;
+
+&lt;p&gt;Thus this identity, and by extension this website does not have much content. All my achievements are strewn across various identities.&lt;/p&gt;
+
+&lt;p&gt;While this Identity isn&amp;rsquo;t &lt;em&gt;that&lt;/em&gt; new, it&amp;rsquo;s not been utilized much. I&amp;rsquo;m going to start using it more for projects that don&amp;rsquo;t require separation of identities.&lt;/p&gt;
+
+&lt;p&gt;So hopefully this website will be more appealing to employers in the near future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello-world/</guid>
+      <description>&lt;p&gt;Hello, this is a very simple post to say that this website is now working. Built with hugo and the Academic hugo theme.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s very simple, hosted on github pages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Becoming a Command Line Ninja</title>
+      <link>/publication/becoming-a-command-line-ninja/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/becoming-a-command-line-ninja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptography 101</title>
+      <link>/publication/cryptography-101/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cryptography-101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malware: a Crash Course</title>
+      <link>/publication/malware-a-crash-course/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/malware-a-crash-course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>/project/website/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Becoming a Command Line Ninja</title>
+      <link>/slides/becoming-a-command-line-ninja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/becoming-a-command-line-ninja/</guid>
       <description>
 
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h1 id=&#34;becoming-a-command-line-ninja&#34;&gt;Becoming a Command Line Ninja&lt;/h1&gt;
 
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/courses/example/example2/</guid>
-      <description>
-
-&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Patrick Childs&lt;/li&gt;
+&lt;li&gt;Associate Global Tech ops Engineer at tigerspike&lt;/li&gt;
+&lt;li&gt;Terminal Junky&lt;/li&gt;
+&lt;li&gt;Really lazy&lt;/li&gt;
+&lt;li&gt;Like REALLY lazy&lt;/li&gt;
+&lt;li&gt;Hates typing&lt;/li&gt;
+&lt;li&gt;Hate mice even more&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/jupyter/</guid>
-      <description>
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
-
-&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
-hugo new  --kind post post/my-post
-cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-
-&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
-
-# Copy the contents of Untitled.md and append it to index.md:
-cat Untitled.md | tee -a index.md
-
-# Remove the temporary file:
-rm Untitled.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-
-&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
-
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/slides/example/</guid>
-      <description>
-
-&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Code block:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-
-&lt;p&gt;Block math:&lt;/p&gt;
-
-&lt;p&gt;$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-   One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   Three
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
 
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;li&gt;You may know me&lt;/li&gt;
+&lt;li&gt;Terminal junky
+
+&lt;ul&gt;
+&lt;li&gt;Made talk with CLI&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Lazy
+
+&lt;ul&gt;
+&lt;li&gt;Really lazy&lt;/li&gt;
+&lt;li&gt;bound nvim to v&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;I have an adversion to typing
+
+&lt;ul&gt;
+&lt;li&gt;GUIs require you to type more&lt;/li&gt;
+&lt;li&gt;can&amp;rsquo;t scipt GUIs&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/aside&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;h2 id=&#34;why-use-the-terminal&#34;&gt;Why use the Terminal&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;li&gt;Fast, and accurate&lt;/li&gt;
+&lt;li&gt;Mice suck&lt;/li&gt;
+&lt;li&gt;Allows scripting, which reduces repetition and thus mistakes&lt;/li&gt;
+&lt;li&gt;String commands together to fit your workflow&lt;/li&gt;
+&lt;li&gt;Unix Philosophy: Do one thing and do it well&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Mice suck
+
+&lt;ul&gt;
+&lt;li&gt;They&amp;rsquo;re slow and inaccurate&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Unix philosophy
+
+&lt;ul&gt;
+&lt;li&gt;Most CLI applications follow Unix philosohpy&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;./CommandLineFu/Images/Largest folders modified in the last 30 days.png&#34; alt=&#34;Finding the largest folder modified within 30 days&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;how-to-git-gud-with-the-cli&#34;&gt;How to Git Gud with the CLI&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;learn-coreutils&#34;&gt;Learn CoreUtils&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;cat&lt;/li&gt;
+&lt;li&gt;Grep&lt;/li&gt;
+&lt;li&gt;sed&lt;/li&gt;
+&lt;li&gt;find&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
+&lt;h2 id=&#34;learn-to-modify-data&#34;&gt;Learn to modify data&lt;/h2&gt;
+
 &lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;li&gt;head&lt;/li&gt;
+&lt;li&gt;tail&lt;/li&gt;
+&lt;li&gt;awk&lt;/li&gt;
+&lt;li&gt;Everything is a list of strings&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
+&lt;h2 id=&#34;learn-to-use-the-shell&#34;&gt;Learn to use the Shell&lt;/h2&gt;
 
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
+&lt;p&gt;&lt;img src=&#34;./CommandLineFu/Images/My Shell.png&#34; alt=&#34;img&#34; title=&#34;My Shell&#34; /&gt;&lt;/p&gt;
 
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;BASH and ZSH are shells&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s what you interact with&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;shell-shortcuts&#34;&gt;Shell shortcuts&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Setup Academic&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support development of Academic:
+&lt;li&gt;&lt;p&gt;Directory stack&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;pushd&lt;/li&gt;
+&lt;li&gt;popd&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;History searching&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Parameter history&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;!$&lt;/li&gt;
+&lt;li&gt;!2&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;sudo !!&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic comes with &lt;strong&gt;day (light) and night (dark) mode&lt;/strong&gt; built-in. Click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt; to see it in action!&lt;/p&gt;
-
-&lt;p&gt;Choose a stunning color and font theme for your site. Themes are fully customizable and include:&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-cupcake_hueba8cfa8cfbc7543924fcbf387a99e92_23986_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;h2 id=&#34;stop-repeating-yourself&#34;&gt;Stop repeating yourself&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
+&lt;li&gt;Learn to script&lt;/li&gt;
+&lt;li&gt;If you do it once, that&amp;rsquo;s already too many times&lt;/li&gt;
+&lt;li&gt;Do it now so you can be lazy later&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+&lt;h2 id=&#34;find-hackable-programs&#34;&gt;Find hackable programs&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Means you can modify them to how &lt;strong&gt;*you&lt;/strong&gt; want&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+&lt;h2 id=&#34;programs-like&#34;&gt;Programs like&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ripgrep&lt;/li&gt;
+&lt;li&gt;FZF&lt;/li&gt;
+&lt;li&gt;Vim&lt;/li&gt;
+&lt;li&gt;Ranger&lt;/li&gt;
+&lt;li&gt;Tmux&lt;/li&gt;
+&lt;li&gt;FASD&lt;/li&gt;
+&lt;li&gt;Taskwarrior&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;h2 id=&#34;programs-to-use&#34;&gt;Programs to use&lt;/h2&gt;
 
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;h2 id=&#34;ripgrep&#34;&gt;Ripgrep&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Source code searcher&lt;/li&gt;
+&lt;li&gt;Like grep, ack and the silver searcher&lt;/li&gt;
+&lt;li&gt;Super fast&lt;/li&gt;
+&lt;li&gt;Ignores &lt;code&gt;.git&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Ignores based on &lt;code&gt;.gitignore&lt;/code&gt; and &lt;code&gt;.ignore&lt;/code&gt; files&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fzf&#34;&gt;FZF&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fuzzy searcher&lt;/li&gt;
+&lt;li&gt;Takes any line delimited input on &lt;code&gt;STDIN&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Prints selected to &lt;code&gt;STDOUT&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Without &lt;code&gt;STDIN&lt;/code&gt; defaults to files&lt;/li&gt;
+&lt;li&gt;Great for scripts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fzf-demo&#34;&gt;FZF demo&lt;/h2&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Fuzzy files&lt;/li&gt;
+&lt;li&gt;Fuzzy git&lt;/li&gt;
+&lt;li&gt;Fuzzy history&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;ranger&#34;&gt;Ranger&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CLI File explorer&lt;/li&gt;
+&lt;li&gt;Powerful and scriptable&lt;/li&gt;
+&lt;li&gt;Knows when to defer tasks to other programs&lt;/li&gt;
+&lt;li&gt;Bulk renaming through text editing&lt;/li&gt;
+&lt;li&gt;Searching through FZF&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;ranger-demo&#34;&gt;Ranger demo&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;vim&#34;&gt;Vim&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vim is old&lt;/li&gt;
+&lt;li&gt;Vim is different&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vim is amazing&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vim is old&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Has it&amp;rsquo;s roots in an editor from the 1970s&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vim is different&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s a modal editor&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;reasons-to-use-vim&#34;&gt;Reasons to use vim&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s fast to startup&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s fast to use&lt;/li&gt;
+&lt;li&gt;It uses almost no memory&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re already in the terminal, why bother with GUI&lt;/li&gt;
+&lt;li&gt;Reduces key presses&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;modal-editor&#34;&gt;Modal Editor&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vim is a model editor&lt;/li&gt;
+&lt;li&gt;Based around the idea of making agnostic, atomic and repeatable
+changes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;what-the-hell-does-that-mean&#34;&gt;What the hell does that mean?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Surround this word with quotes&lt;/li&gt;
+&lt;li&gt;Delete 3 paragraphs&lt;/li&gt;
+&lt;li&gt;Swap every third word that matches what is in my clipboard&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;vim-plugins&#34;&gt;Vim plugins&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Vim has at least 16000 plugins&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;More than Sublime, or Atom&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Has own language called VimScript&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Plugins that integrate with FZF and Ripgrep&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Snippets&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;snippets&#34;&gt;Snippets&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;UltiSnippets is probably the best around&lt;/li&gt;
+&lt;li&gt;Python and Vimscript evaluation of default values&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Which means you can have it fill in the blanks programatically&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;vim-demo&#34;&gt;Vim demo&lt;/h2&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  Look through bkash find bkash.yaml filter lines to find rds template
+goto file fzf files make change show off magit
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fasd&#34;&gt;FASD&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Frecencey fuzzy matching (frequency + recency)&lt;/li&gt;
+&lt;li&gt;F for files&lt;/li&gt;
+&lt;li&gt;A for All&lt;/li&gt;
+&lt;li&gt;S for interactive search&lt;/li&gt;
+&lt;li&gt;D for directories&lt;/li&gt;
+&lt;li&gt;Z for autojump to drectory&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fasd-demo&#34;&gt;Fasd demo&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;tmux&#34;&gt;TMux&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Terminal multiplexer&lt;/li&gt;
+&lt;li&gt;Window manager for your terminal&lt;/li&gt;
+&lt;li&gt;Gives you windows, tabs, and sessions&lt;/li&gt;
+&lt;li&gt;Is scriptable, so you can make it create a workspace for a specific
+project&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;taskwarrior&#34;&gt;Taskwarrior&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hackable, extensible task management system&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Scriptable, and plugin support&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bugwarrior - Email and Jira integration&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Time tracking&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tags (many to many)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Projects (many to one)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;takeaways&#34;&gt;Takeaways&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Stop repeating yourself (make scripts)&lt;/li&gt;
+&lt;li&gt;Be lazy and hate typing&lt;/li&gt;
+&lt;li&gt;Find ways you can integrate everything&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t be afraid to try new things and put some elbow grease into a
+task&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Cryptography 101</title>
+      <link>/slides/cryptography-101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <guid>/slides/cryptography-101/</guid>
+      <description>
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;h1 id=&#34;cryptography-101&#34;&gt;Cryptography 101&lt;/h1&gt;
 
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;what-is-cryptography&#34;&gt;What is cryptography&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The art of writing or solving codes.&lt;/li&gt;
+&lt;li&gt;Comes from the greek kryptos-graphein meaning hidden writing&lt;/li&gt;
+&lt;li&gt;The only mathematically sound security measure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;brief-history&#34;&gt;Brief history&lt;/h2&gt;
+
+&lt;h2 id=&#34;cesar-cipher&#34;&gt;Cesar Cipher&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Used by Cesar for personal communication in the 1st Century BCE&lt;/li&gt;
+&lt;li&gt;Simple substitution cipher&lt;/li&gt;
+&lt;li&gt;Can be easily cracked based on character frequency&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;enigma&#34;&gt;Enigma&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Used by Nazi Germany during WWII&lt;/li&gt;
+&lt;li&gt;Complex substitution cipher&lt;/li&gt;
+&lt;li&gt;Fatal flaw that no letter could be itself&lt;/li&gt;
+&lt;li&gt;Cracked by Alan Turing and his Team from the UK&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-big-change&#34;&gt;The big change&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Up until this point all ciphers where symmetric&lt;/li&gt;
+&lt;li&gt;Means the same key is used to encrypt and decrypt&lt;/li&gt;
+&lt;li&gt;How to share the key securely?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;rsa&#34;&gt;RSA&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The first asymmetric cipher&lt;/li&gt;
+&lt;li&gt;Developed in 1977&lt;/li&gt;
+&lt;li&gt;Has two keys instead of one&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;asymmetric-cryptography&#34;&gt;Asymmetric Cryptography&lt;/h2&gt;
+
+&lt;h2 id=&#34;how-does-this-work&#34;&gt;How does this work&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Relies on one way math functions&lt;/li&gt;
+&lt;li&gt;Some mathematical functions are east to do one way, but hard to reverse&lt;/li&gt;
+&lt;li&gt;These are:
+
+&lt;ul&gt;
+&lt;li&gt;Multiplying primes&lt;/li&gt;
+&lt;li&gt;Modulus&lt;/li&gt;
+&lt;li&gt;Elliptic Curves&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;primes&#34;&gt;Primes&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Multiplying two primes&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}
+7 \times 13 = 91 \text{(Easy)}
+\end{equation}&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Factoring a product of two primes&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}
+a \times b = 68 \text{(Hard)}
+\end{equation}&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;modulus&#34;&gt;Modulus&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Modulus is the remainder&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Like a clock&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}
+13 \mod 12 = 1
+\end{equation}&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}
+16 \mod 12 = 4
+\end{equation}&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Doing reverse is hard&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}
+a \mod 10 = 5
+\end{equation}&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;what is a?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;5, 15, 25, 55, 105, or 900000005?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;elliptic-curves&#34;&gt;Elliptic Curves&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Way out of the scope of this talk&lt;/li&gt;
+&lt;li&gt;Basically using curve functions to calculate data&lt;/li&gt;
+&lt;li&gt;Think parabolas and such&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;rsa-1&#34;&gt;RSA&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Relies on Primes and Modulus&lt;/li&gt;
+&lt;li&gt;Private and public keys&lt;/li&gt;
+&lt;li&gt;Keys are just prime numbers&lt;/li&gt;
+&lt;li&gt;You can encrypt with public or private&lt;/li&gt;
+&lt;li&gt;Whatever key you do an operation with, you will need the opposite key to
+reverse it&lt;/li&gt;
+&lt;li&gt;If you encrypt with private, you can only decrypt with public&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Choose two distinct prime numbers&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}
+p=61
+&lt;br /&gt;
+q=51
+\end{equation}&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Compute n = pq&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}
+n = 61 \times 53 = 3233
+\end{equation}&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Compute the Carmichael&amp;rsquo;s totient function of the product as λ(n) = lcm(p − 1, q − 1)&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}
+\lambda(n) = \text{lcm}(60, 52) = 780
+\end{equation}&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;pre&gt;&lt;code&gt;-   Sounds complex
+-   Gives us an exponent so that any coprime of n when given that a&amp;lt;sup&amp;gt;m&amp;lt;/sup&amp;gt; mod n = 1
+    where a is the coprime
+-   What&#39;s a coprime? Two integers that the only common divisor is 1
+-   We can calculate totient using LCM (least common multiple)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/aside&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Choose any number 1 &amp;lt; e &amp;lt; 780 that is coprime to 780. Choosing a prime number for e leaves us only to check that e is not a divisor of 780.&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}
+e = 17
+\end{equation}&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Compute d, the modular multiplicative inverse of e (mod λ(n))&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}
+d \times e \mod \lambda(n) = 1
+&lt;br /&gt;
+413 \times 17 \mod 780 = 1
+\end{equation}&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Modular multiplicative inverse means d*e is congruent to 1 (mod λ(n))&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;public key is (n = 3233, e = 17), with message m, encryption function is&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}
+c(m) = m^{17} \mod 3233
+&lt;br /&gt;
+c = 65^{17} \mod 3233 = 2790
+\end{equation}&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;private key is (n = 3233, d = 413), with ciphertext c, decryption function is&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}
+m&amp;copy; = c^{413} \mod 3233
+&lt;br /&gt;
+m = 2790^{413} \mod 3233 = 65
+\end{equation}&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;where-is-rsa-used&#34;&gt;Where is RSA used&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HTTPS&lt;/li&gt;
+&lt;li&gt;SSH&lt;/li&gt;
+&lt;li&gt;any TLS or SSL implementation&lt;/li&gt;
+&lt;li&gt;Email&lt;/li&gt;
+&lt;li&gt;PGP&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;key-exchanges&#34;&gt;Key Exchanges&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;RSA is all well and good&lt;/li&gt;
+&lt;li&gt;But how do you securely exchange keys&lt;/li&gt;
+&lt;li&gt;This is where the Diffie–Hellman key exchange comes into play&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;diffie-hellman&#34;&gt;Diffie-Hellman&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;An algorithm for securely transferring keys publicly&lt;/li&gt;
+&lt;li&gt;Simple in design, yet surprisingly robust&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;simple-overview&#34;&gt;Simple overview&lt;/h2&gt;
+
+&lt;h3 id=&#34;generating-initial-secrets&#34;&gt;Generating Initial Secrets&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;talks.org_imgs/Crypto/diffie-helman-part1.png&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;derriving-shared-secrets&#34;&gt;Derriving Shared Secrets&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;talks.org_imgs/Crypto/diffie-helman-part2.png&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;hashes&#34;&gt;Hashes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hashes are unpredictable, random, digests of data.&lt;/li&gt;
+&lt;li&gt;They have a few key features:
+
+&lt;ul&gt;
+&lt;li&gt;Random, and completely unpredictable&lt;/li&gt;
+&lt;li&gt;One way, they cannot be easily reversed&lt;/li&gt;
+&lt;li&gt;Transform large data into small data of a known size&lt;/li&gt;
+&lt;li&gt;Unique, not likely that two pieces of data with the same hash&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;random&#34;&gt;Random&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hashes should be sufficiently random&lt;/li&gt;
+&lt;li&gt;They should be virtually impossible to predict&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;one-way&#34;&gt;One way&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hashes should be impossible to reverse&lt;/li&gt;
+&lt;li&gt;The only way to find the original data is to brute force&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;transform&#34;&gt;Transform&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hashes should be able to represent larger data&lt;/li&gt;
+&lt;li&gt;They should be a known length&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;unique&#34;&gt;Unique&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hashes are flawed&lt;/li&gt;
+&lt;li&gt;Converting large data to small data will result in clashes&lt;/li&gt;
+&lt;li&gt;These are called collisions&lt;/li&gt;
+&lt;li&gt;A good hash should reduce the likely-hood of collisions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;uses-of-hashes&#34;&gt;Uses of hashes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What&amp;rsquo;s the use-case?
+
+&lt;ul&gt;
+&lt;li&gt;Data/File verification&lt;/li&gt;
+&lt;li&gt;Storing passwords securely&lt;/li&gt;
+&lt;li&gt;Digital signing&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;caveats&#34;&gt;Caveats&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Not all hash algorithms are created equal&lt;/li&gt;
+&lt;li&gt;Use different ones for your use case&lt;/li&gt;
+&lt;li&gt;Storing passwords? Use CPU insensitive algorithms (BCrypt)&lt;/li&gt;
+&lt;li&gt;There&amp;rsquo;s more, but that&amp;rsquo;s for another talk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;the-hidden-complexity&#34;&gt;The hidden complexity&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The maths behind cryptography is fairly straightforward&lt;/li&gt;
+&lt;li&gt;The maths is also very secure&lt;/li&gt;
+&lt;li&gt;The implementation may not be&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;unsafe-implementation&#34;&gt;Unsafe implementation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s easy to implement RSA or AES yourself&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s easy to miss hidden complexities&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s hard to generate sufficiently random numbers&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s hard to avoid leaking information about the key&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;takeaways&#34;&gt;Takeaways&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Do not implement your own crypto&lt;/li&gt;
+&lt;li&gt;Do not implement an existing crypto&lt;/li&gt;
+&lt;li&gt;Use an existing implementation that&amp;rsquo;s been proven to work&lt;/li&gt;
+&lt;li&gt;Use Libsodium&lt;/li&gt;
+&lt;li&gt;Even if you do everything right it&amp;rsquo;s pointless since the AABill passed&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Malware a Crash Course</title>
+      <link>/slides/malware-a-crash-course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <guid>/slides/malware-a-crash-course/</guid>
+      <description>
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;h1 id=&#34;malware-a-crash-course&#34;&gt;Malware: a Crash Course&lt;/h1&gt;
 
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;what-is-malware&#34;&gt;What is malware&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Any malicious software&lt;/li&gt;
+&lt;li&gt;Worms, viruses, trojans, etc&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;who-makes-malware&#34;&gt;Who makes malware&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Russians&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  Russian law where they only charge people who commit cybercrime against Russians
+Effective method of avoiding infection is to set your default language to Russian
+&lt;/aside&gt;
+
+&lt;ul&gt;
+&lt;li&gt;teenagers from US, CA, UK, and AU&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;overview-of-terms&#34;&gt;Overview of terms&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Terms are not mutually exclusive&lt;/li&gt;
+&lt;li&gt;malware can leverage different features and be labeled different ways&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;trojans&#34;&gt;Trojans&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Malware hidden in legitimate software&lt;/li&gt;
+&lt;li&gt;Usually done by binding or backdooring legitimate software&lt;/li&gt;
+&lt;li&gt;Usually found in torrents&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;worms&#34;&gt;Worms&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Malware that automatically spreads without user interaction&lt;/li&gt;
+&lt;li&gt;Usually exploits network vulnerabilities&lt;/li&gt;
+&lt;li&gt;Not common anymore, although Wannacry was an exception&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;spyware&#34;&gt;Spyware&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spyware is malware that is often legitimate in some respect&lt;/li&gt;
+&lt;li&gt;but will steal and siphon data away&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;viruses&#34;&gt;Viruses&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Self replicating malware&lt;/li&gt;
+&lt;li&gt;The term is not often used outside of pop culture as it&amp;rsquo;s ill defined&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;major-types-of-malware&#34;&gt;Major types of malware&lt;/h2&gt;
+
+&lt;h2 id=&#34;rootkits&#34;&gt;Rootkits&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Complicated methods of hiding aspects of malware&lt;/li&gt;
+&lt;li&gt;Usually hiding files, registry keys, and network connections from the system&lt;/li&gt;
+&lt;li&gt;Usually Ring3 (userland) based&lt;/li&gt;
+&lt;li&gt;Sometimes Ring0 (kernal) based&lt;/li&gt;
+&lt;li&gt;Very occasionally a bootkit (bios rootkit)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;rings&#34;&gt;Rings&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rings are the level of access&lt;/li&gt;
+&lt;li&gt;there&amp;rsquo;s usually two major ones
+
+&lt;ul&gt;
+&lt;li&gt;Ring 3 - The userland where most applications will run&lt;/li&gt;
+&lt;li&gt;Ring 0 - The kernel where most drivers and the operating system will run&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Having a lower ring means you can hook System calls first&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;system-calls&#34;&gt;System calls&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;System calls are what applications use to communicate with the OS and hardware&lt;/li&gt;
+&lt;li&gt;there are system calls for reading files, making network connections, etc&lt;/li&gt;
+&lt;li&gt;All abstracted to be non-hardware specific&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;hooking&#34;&gt;Hooking&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rootkits work by hooking system calls and intercepting the data between the OS
+and the application&lt;/li&gt;
+&lt;li&gt;There are a LOT of ways to do this&lt;/li&gt;
+&lt;li&gt;They often go down the chain, where the first hook will be called first&lt;/li&gt;
+&lt;li&gt;Thus getting the first hook is crucial in correctly intercepting data&lt;/li&gt;
+&lt;li&gt;Anti-viruses will also hook system calls to check for rootkits and suspicious behavior&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;loaders&#34;&gt;Loaders&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Malware specifically designed to provide strong persistence on a compromised system&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s job is to make sure no Anti-Virus or User can remove it&lt;/li&gt;
+&lt;li&gt;It often utilizes rootkits to achieve it&amp;rsquo;s goal&lt;/li&gt;
+&lt;li&gt;It only exists to provide baseline persistence and load more specialized
+malware onto a system&lt;/li&gt;
+&lt;li&gt;a Prominent example is Smoke Loader&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;rats&#34;&gt;RATs&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Remote Administration Trojans&lt;/li&gt;
+&lt;li&gt;Truely the most prolific malware type&lt;/li&gt;
+&lt;li&gt;Used by teenagers to dip their toe into cybercrime&lt;/li&gt;
+&lt;li&gt;They provide intimate access to a compromised computer as opposed to more
+sophisticated malware such as botnets&lt;/li&gt;
+&lt;li&gt;Allowing remote desktop, access to the webcam, keylogger, chats, and even
+functions to troll the user (ejecting CD drive)&lt;/li&gt;
+&lt;li&gt;Relatively cheap $20 a license with the ability to generate new payloads at will&lt;/li&gt;
+&lt;li&gt;Most prominent RATs are:
+
+&lt;ul&gt;
+&lt;li&gt;Blackshades&lt;/li&gt;
+&lt;li&gt;DarkComet&lt;/li&gt;
+&lt;li&gt;jRAT&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;botnets&#34;&gt;Botnets&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Botnet is an umbrella term for malware that is designed to collect a large
+amount of compromised hosts and create a network of bots&lt;/li&gt;
+&lt;li&gt;They&amp;rsquo;re often another type of malware in conjunction with this&lt;/li&gt;
+&lt;li&gt;They&amp;rsquo;re designed for controlling thousands if not millions of compromised hosts&lt;/li&gt;
+&lt;li&gt;Very expensive, $100s of dollars for a payload to be generated by the author&lt;/li&gt;
+&lt;li&gt;This is in stark contrast to RATs&lt;/li&gt;
+&lt;li&gt;Prominent examples are:
+
+&lt;ul&gt;
+&lt;li&gt;Betabot&lt;/li&gt;
+&lt;li&gt;Andromeda&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;banking-trojans&#34;&gt;Banking Trojans&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Banking trojans are unique and powerful&lt;/li&gt;
+&lt;li&gt;They&amp;rsquo;re specifically designed to defeat all verifications banks put in their
+web pages&lt;/li&gt;
+&lt;li&gt;They can defeat encryption by hooking browser networking functions&lt;/li&gt;
+&lt;li&gt;intercept HTTP(S) POST requests skimming data (logins, credit
+card numbers, etc)&lt;/li&gt;
+&lt;li&gt;intercept incoming HTTP(S) traffic and inject malicious javascript&lt;/li&gt;
+&lt;li&gt;They can then automatically siphon money from the account and hide the transactions&lt;/li&gt;
+&lt;li&gt;All generally cloned from zeus&amp;rsquo;s leaked source code&lt;/li&gt;
+&lt;li&gt;Absurdly expensive, usually upwards of $1000 for a single payload generated by sellers&lt;/li&gt;
+&lt;li&gt;Prominent examples:
+
+&lt;ul&gt;
+&lt;li&gt;Zeus&lt;/li&gt;
+&lt;li&gt;SpyEye&lt;/li&gt;
+&lt;li&gt;Citadel&lt;/li&gt;
+&lt;li&gt;Kronus&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;pos-malware&#34;&gt;POS malware&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Attacks Point of sales machines&lt;/li&gt;
+&lt;li&gt;Constantly scans memory for credit card numbers&lt;/li&gt;
+&lt;li&gt;Where most credit cards are stolen from&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ransomware&#34;&gt;Ransomware&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Also known as Cryptolockers&lt;/li&gt;
+&lt;li&gt;Restrict access to the system and demand a payment&lt;/li&gt;
+&lt;li&gt;Usually this is done by encrypting files&lt;/li&gt;
+&lt;li&gt;Very common these days&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;design-choices&#34;&gt;Design choices&lt;/h2&gt;
+
+&lt;h2 id=&#34;os-choice&#34;&gt;OS Choice&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Malware is often only made for windows as it represents the largest market share&lt;/li&gt;
+&lt;li&gt;This is not to say there isn&amp;rsquo;t malware for Linux/MacOS/BSD, they are just much
+less common&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language-choice&#34;&gt;Language choice&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Malware is often written in C, C++, Delphi, and VB6&lt;/li&gt;
+&lt;li&gt;This is to avoid depending on libraries having being installed on the system
+(.NET or Java)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;compactness-and-modularity&#34;&gt;Compactness and modularity&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Malware is often designed to be compact and small to allow it to be downloaded
+remotely over slow connections&lt;/li&gt;
+&lt;li&gt;This leads to modularization, lots of complicated malware will segment it&amp;rsquo;s
+capabilities into modules that will be loaded when needed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;side-note-crypters&#34;&gt;Side note: Crypters&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Crypters encrypt payloads to avoid anti-virus detection&lt;/li&gt;
+&lt;li&gt;Relatively cheap&lt;/li&gt;
+&lt;li&gt;When no Anti-virus detects it it&amp;rsquo;s called FUD&lt;/li&gt;
+&lt;li&gt;Protection only lasts a few weeks, so older files are safer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;infection-vectors&#34;&gt;Infection Vectors&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;There are a lot of ways people look to infect victims with a malicious payload&lt;/li&gt;
+&lt;li&gt;Each type of malware usually has a specific method of infection designed to
+target specific demographics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;pirated-software&#34;&gt;Pirated software&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pirated software is commonly infected, usually a malicious payload is
+binded to existing torrents, crypted to avoid detection, and uploaded.&lt;/li&gt;
+&lt;li&gt;Sites like the pirate bay are pretty good at taking down infected uploads&lt;/li&gt;
+&lt;li&gt;KAT is not so great&lt;/li&gt;
+&lt;li&gt;This is mainly used by owners of RAT networks, as it&amp;rsquo;s easy and low cost.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;drive-bys&#34;&gt;Drive bys&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A common method botnet owners use to gain a large number of infected hosts&lt;/li&gt;
+&lt;li&gt;Has 3 major components
+
+&lt;ul&gt;
+&lt;li&gt;Exploit kit&lt;/li&gt;
+&lt;li&gt;Compromised sites&lt;/li&gt;
+&lt;li&gt;Payload&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Often used to target 3rd world countries&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;exploit-kit&#34;&gt;Exploit Kit&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;An exploit kit is a piece of software designed to select an exploit that will
+be effective against an unpatched piece of software (IE 8, old flash, etc)&lt;/li&gt;
+&lt;li&gt;They are usually rented on a daily basis for $300+/day&lt;/li&gt;
+&lt;li&gt;RIG Exploit Kit is the most common used&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;legitimate-compromised-site&#34;&gt;Legitimate Compromised site&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You need to get traffic to an exploit kit&lt;/li&gt;
+&lt;li&gt;This is usually done through exploiting legit sites and placing iframes to the
+exploit kit&lt;/li&gt;
+&lt;li&gt;Sometimes done through malicious advertisements as well&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;the-payload&#34;&gt;The payload&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Often the space to run code after an exploit is small&lt;/li&gt;
+&lt;li&gt;Often just enough to download and execute an additional stage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;malicious-mail-attachments&#34;&gt;Malicious mail attachments&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Saw a dip in popularity during the early 2000s&lt;/li&gt;
+&lt;li&gt;On the rise with cryptolockers&lt;/li&gt;
+&lt;li&gt;Usually abuse Word macros to execute payloads&lt;/li&gt;
+&lt;li&gt;Often targeting business specifically&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

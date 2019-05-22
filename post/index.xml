@@ -6,27 +6,27 @@
     <description>Recent content in Posts on Faximilie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Simple Opsec</title>
+      <link>/post/simple-opsec/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/jupyter/</guid>
-      <description>Learn how to blog in Academic using Jupyter notebooks</description>
+      <guid>/post/simple-opsec/</guid>
+      <description>A explaination for the lack of content on this website.</description>
     </item>
     
     <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Hello Hugo</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/getting-started/</guid>
-      <description>Create a beautifully simple website in under 10 minutes.</description>
+      <guid>/post/hello-world/</guid>
+      <description>Hello world, hello hugo.</description>
     </item>
     
   </channel>

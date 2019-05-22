@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slide on Faximilie</title>
+    <link>/tags/slide/</link>
+    <description>Recent content in Slide on Faximilie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/slide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Becoming a Command Line Ninja</title>
+      <link>/slides/becoming-a-command-line-ninja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/becoming-a-command-line-ninja/</guid>
+      <description>Using the Linux CLI to do things quickly</description>
+    </item>
+    
+    <item>
+      <title>Cryptography 101</title>
+      <link>/slides/cryptography-101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/cryptography-101/</guid>
+      <description>Basic Crypto</description>
+    </item>
+    
+    <item>
+      <title>Malware a Crash Course</title>
+      <link>/slides/malware-a-crash-course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/malware-a-crash-course/</guid>
+      <description>A runthrough of malware</description>
+    </item>
+    
+  </channel>
+</rss>
