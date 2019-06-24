@@ -492,9 +492,10 @@ task&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;Used by Cesar for personal communication in the 1st Century BCE&lt;/li&gt;
 &lt;li&gt;Simple substitution cipher&lt;/li&gt;
-&lt;li&gt;Can be easily cracked based on character frequency
-&amp;mdash;&lt;/li&gt;
+&lt;li&gt;Can be easily cracked based on character frequency&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;enigma&#34;&gt;Enigma&lt;/h3&gt;
 
@@ -502,26 +503,27 @@ task&lt;/li&gt;
 &lt;li&gt;Used by Nazi Germany during WWII&lt;/li&gt;
 &lt;li&gt;Complex substitution cipher&lt;/li&gt;
 &lt;li&gt;Fatal flaw that no letter could be itself&lt;/li&gt;
-&lt;li&gt;Cracked by Alan Turing and his Team from the UK
-&amp;mdash;&lt;/li&gt;
+&lt;li&gt;Cracked by Alan Turing and his Team from the UK&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;the-big-change&#34;&gt;The big change&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Up until this point all ciphers where symmetric&lt;/li&gt;
 &lt;li&gt;Means the same key is used to encrypt and decrypt&lt;/li&gt;
-&lt;li&gt;How to share the key securely?
-&amp;mdash;&lt;/li&gt;
+&lt;li&gt;How to share the key securely?&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;rsa&#34;&gt;RSA&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;The first asymmetric cipher&lt;/li&gt;
 &lt;li&gt;Developed in 1977&lt;/li&gt;
-&lt;li&gt;Has two keys instead of one
-&amp;mdash;&lt;/li&gt;
+&lt;li&gt;Has two keys instead of one&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
