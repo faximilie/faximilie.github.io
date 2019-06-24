@@ -485,7 +485,7 @@ task&lt;/li&gt;
 
 &lt;h2 id=&#34;brief-history&#34;&gt;Brief history&lt;/h2&gt;
 
-&lt;h2 id=&#34;cesar-cipher&#34;&gt;Cesar Cipher&lt;/h2&gt;
+&lt;h3 id=&#34;cesar-cipher&#34;&gt;Cesar Cipher&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Used by Cesar for personal communication in the 1st Century BCE&lt;/li&gt;
@@ -493,7 +493,7 @@ task&lt;/li&gt;
 &lt;li&gt;Can be easily cracked based on character frequency&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;enigma&#34;&gt;Enigma&lt;/h2&gt;
+&lt;h3 id=&#34;enigma&#34;&gt;Enigma&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Used by Nazi Germany during WWII&lt;/li&gt;
@@ -502,7 +502,7 @@ task&lt;/li&gt;
 &lt;li&gt;Cracked by Alan Turing and his Team from the UK&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;the-big-change&#34;&gt;The big change&lt;/h2&gt;
+&lt;h3 id=&#34;the-big-change&#34;&gt;The big change&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Up until this point all ciphers where symmetric&lt;/li&gt;
@@ -510,7 +510,7 @@ task&lt;/li&gt;
 &lt;li&gt;How to share the key securely?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;rsa&#34;&gt;RSA&lt;/h2&gt;
+&lt;h3 id=&#34;rsa&#34;&gt;RSA&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;The first asymmetric cipher&lt;/li&gt;
