@@ -10,25 +10,21 @@
   <url>
     <loc>/authors/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/meta/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -39,13 +35,11 @@
   <url>
     <loc>/categories/security/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/security/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -56,19 +50,16 @@
   <url>
     <loc>/tags/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/website/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/github/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -79,19 +70,16 @@
   <url>
     <loc>/tags/hugo/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/meta/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/0/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -102,13 +90,11 @@
   <url>
     <loc>/tags/cli/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/cryptography/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -119,13 +105,11 @@
   <url>
     <loc>/tags/linux/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/malware/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -136,7 +120,6 @@
   <url>
     <loc>/publication_types/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -147,13 +130,11 @@
   <url>
     <loc>/tags/workflow/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -167,12 +148,10 @@
   
   <url>
     <loc>/categories/cli/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/cryptography/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -181,7 +160,6 @@
   
   <url>
     <loc>/categories/malware/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -194,12 +172,10 @@
   
   <url>
     <loc>/tags/slide/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/slides/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
