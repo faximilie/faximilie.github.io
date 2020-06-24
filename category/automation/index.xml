@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>automation | Faximilie</title><link>/category/automation/</link><atom:link href="/category/automation/index.xml" rel="self" type="application/rss+xml"/><description>automation</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 14:43:59 +1000</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>automation</title><link>/category/automation/</link></image><item><title>Mutli-media Madness</title><link>/post/mutli-media-madness/</link><pubDate>Sun, 21 Jun 2020 14:43:59 +1000</pubDate><guid>/post/mutli-media-madness/</guid><description>&lt;h2 id="the-problem">The problem&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>automation | Faximilie</title><link>/category/automation/</link><atom:link href="/category/automation/index.xml" rel="self" type="application/rss+xml"/><description>automation</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 14:43:59 +1000</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>automation</title><link>/category/automation/</link></image><item><title>Multi-media Madness</title><link>/post/multi-media-madness/</link><pubDate>Sun, 21 Jun 2020 14:43:59 +1000</pubDate><guid>/post/multi-media-madness/</guid><description>&lt;h2 id="the-problem">The problem&lt;/h2>
 &lt;p>So I&amp;rsquo;m a bit of a weeb, and enjoy watching anime from time to time. However I often find myself forgetting my place during the weeks between episodes. This often leads me to drop an anime because I can&amp;rsquo;t find the right episode before losing motivation.&lt;/p>
 &lt;p>I also have the issue of friends recommending me an anime, and I will forget it well before I get a chance to watch it.&lt;/p>
 &lt;p>Enter Anilist/MyAnimeList, the anime tracking services similar to track.tv. This fixes both problems of tracking watched episodes, and new series to watch. However it introduces new issues, manually updating watched status.&lt;/p>
@@ -14,7 +14,8 @@
 &lt;h3 id="plex">Plex&lt;/h3>
 &lt;p>Plex provides the backbone of my media library. Transcoding, mobile syncing, and most importantly: the plex anilist sync script.&lt;/p>
 &lt;h4 id="plex-anilist-sync">Plex anilist sync&lt;/h4>
-&lt;p>This external script will query the Plex API and ensure that Anilist is kept up to date with the watch status. The repo can be found here: &lt;a href="https://github.com/RickDB/PlexAniSync">https://github.com/RickDB/PlexAniSync&lt;/a>&lt;/p>
+&lt;p>This external script will query the Plex API and ensure that Anilist is kept up to date with the watch status.&lt;/p>
+&lt;p>The repo can be found here: &lt;a href="https://github.com/RickDB/PlexAniSync">https://github.com/RickDB/PlexAniSync&lt;/a>&lt;/p>
 &lt;h4 id="plex-mpv-shim">plex-mpv-shim&lt;/h4>
 &lt;p>This allows me to play videos from Plex locally on my favorite media player, while still syncing, transcoding and such.
 It&amp;rsquo;s a very important feature, that allows me to really save battery on the go.&lt;/p>
@@ -25,8 +26,10 @@ I won&amp;rsquo;t say anymore on sonarr sadly, despite how amazing it really is.
 &lt;h3 id="flexget">Flexget&lt;/h3>
 &lt;p>Flexget is the glue that holds most things together, it provides the mechanism of getting my Anilist watchlist into sonarr to be &amp;ldquo;procured&amp;rdquo; automagically. However there seems to be a bug which caused me to write a fix in the most horrific way.&lt;/p>
 &lt;h4 id="flex-fix">Flex fix&lt;/h4>
-&lt;p>It seems if a show already exists in sonarr it will return a 500, and give the reason. A sane program would accept this 500 and move on, knowing it was not a severe error. However flexget does not do this, it errors out when 500 is returned for &lt;em>any reason&lt;/em> which is rather frustrating. It also expects the show details to be returned when it 200s on that same request, so one can not simply have it replace 500 status codes with 200.&lt;/p>
-&lt;p>To fix this error, you must intercept all requests, and when a 500 error occurs for an existing show, you must then lookup that existing show through the sonarr api, and return those details to flexget with a 200 http code. This python script does exactly that, acting as a proxy, listening on a port below sonarr and connecting to sonarr itself.&lt;/p>
+&lt;p>It seems if a show already exists in sonarr it will return a 500, and give the reason. A sane program would accept this 500 and move on, knowing it was not a severe error.&lt;/p>
+&lt;p>However flexget does not do this, it errors out when 500 is returned for &lt;em>any reason&lt;/em> which is rather frustrating. It also expects the show details to be returned when it 200s on that same request, so one can not simply have it replace 500 status codes with 200.&lt;/p>
+&lt;p>To fix this error, you must intercept all requests, and when a 500 error occurs for an existing show, you must then lookup that existing show through the sonarr api, and return those details to flexget with a 200 http code.&lt;/p>
+&lt;p>This python script does exactly that, acting as a proxy, listening on a port below sonarr and connecting to sonarr itself.&lt;/p>
 &lt;p>Here it is below, eventually this will be put in gist, but not at the moment.&lt;/p>
 &lt;pre>&lt;code class="language-python">from http.server import HTTPServer, BaseHTTPRequestHandler
 from http.client import HTTPConnection
