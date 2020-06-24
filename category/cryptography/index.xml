@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cryptography | Faximilie</title><link>/category/cryptography/</link><atom:link href="/category/cryptography/index.xml" rel="self" type="application/rss+xml"/><description>Cryptography</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Cryptography</title><link>/category/cryptography/</link></image><item><title>Cryptography 101</title><link>/slides/cryptography-101/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/slides/cryptography-101/</guid><description>&lt;h1 id="cryptography-101">Cryptography 101&lt;/h1>
+&lt;hr>
+&lt;h2 id="what-is-cryptography">What is cryptography&lt;/h2>
+&lt;ul>
+&lt;li>The art of writing or solving codes.&lt;/li>
+&lt;li>Comes from the greek kryptos-graphein meaning hidden writing&lt;/li>
+&lt;li>The only mathematically sound security measure&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="brief-history">Brief history&lt;/h2>
+&lt;hr>
+&lt;h3 id="cesar-cipher">Cesar Cipher&lt;/h3>
+&lt;ul>
+&lt;li>Used by Cesar for personal communication in the 1st Century BCE&lt;/li>
+&lt;li>Simple substitution cipher&lt;/li>
+&lt;li>Can be easily cracked based on character frequency&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="enigma">Enigma&lt;/h3>
+&lt;ul>
+&lt;li>Used by Nazi Germany during WWII&lt;/li>
+&lt;li>Complex substitution cipher&lt;/li>
+&lt;li>Fatal flaw that no letter could be itself&lt;/li>
+&lt;li>Cracked by Alan Turing and his Team from the UK&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="the-big-change">The big change&lt;/h3>
+&lt;ul>
+&lt;li>Up until this point all ciphers where symmetric&lt;/li>
+&lt;li>Means the same key is used to encrypt and decrypt&lt;/li>
+&lt;li>How to share the key securely?&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="rsa">RSA&lt;/h3>
+&lt;ul>
+&lt;li>The first asymmetric cipher&lt;/li>
+&lt;li>Developed in 1977&lt;/li>
+&lt;li>Has two keys instead of one&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="asymmetric-cryptography">Asymmetric Cryptography&lt;/h2>
+&lt;h2 id="how-does-this-work">How does this work&lt;/h2>
+&lt;ul>
+&lt;li>Relies on one way math functions&lt;/li>
+&lt;li>Some mathematical functions are east to do one way, but hard to reverse&lt;/li>
+&lt;li>These are:
+&lt;ul>
+&lt;li>Multiplying primes&lt;/li>
+&lt;li>Modulus&lt;/li>
+&lt;li>Elliptic Curves&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="primes">Primes&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Multiplying two primes&lt;/p>
+&lt;p>\begin{equation}
+7 \times 13 = 91 \text{(Easy)}
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Factoring a product of two primes&lt;/p>
+&lt;p>\begin{equation}
+a \times b = 68 \text{(Hard)}
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="modulus">Modulus&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Modulus is the remainder&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Like a clock&lt;/p>
+&lt;p>\begin{equation}
+13 \mod 12 = 1
+\end{equation}&lt;/p>
+&lt;p>\begin{equation}
+16 \mod 12 = 4
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Doing reverse is hard&lt;/p>
+&lt;p>\begin{equation}
+a \mod 10 = 5
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>what is a?&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>5, 15, 25, 55, 105, or 900000005?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="elliptic-curves">Elliptic Curves&lt;/h3>
+&lt;ul>
+&lt;li>Way out of the scope of this talk&lt;/li>
+&lt;li>Basically using curve functions to calculate data&lt;/li>
+&lt;li>Think parabolas and such&lt;/li>
+&lt;/ul>
+&lt;h2 id="rsa-1">RSA&lt;/h2>
+&lt;ul>
+&lt;li>Relies on Primes and Modulus&lt;/li>
+&lt;li>Private and public keys&lt;/li>
+&lt;li>Keys are just prime numbers&lt;/li>
+&lt;li>You can encrypt with public or private&lt;/li>
+&lt;li>Whatever key you do an operation with, you will need the opposite key to
+reverse it&lt;/li>
+&lt;li>If you encrypt with private, you can only decrypt with public&lt;/li>
+&lt;/ul>
+&lt;h3 id="example">Example&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Choose two distinct prime numbers&lt;/p>
+&lt;p>\begin{equation}
+p=61
+\&lt;br>
+q=51
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Compute n = pq&lt;/p>
+&lt;p>\begin{equation}
+n = 61 \times 53 = 3233
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Compute the Carmichael&amp;rsquo;s totient function of the product as λ(n) = lcm(p − 1, q − 1)&lt;/p>
+&lt;p>\begin{equation}
+\lambda(n) = \text{lcm}(60, 52) = 780
+\end{equation}&lt;/p>
+&lt;aside class="notes">
+&lt;pre>&lt;code>- Sounds complex
+- Gives us an exponent so that any coprime of n when given that a&amp;lt;sup&amp;gt;m&amp;lt;/sup&amp;gt; mod n = 1
+where a is the coprime
+- What's a coprime? Two integers that the only common divisor is 1
+- We can calculate totient using LCM (least common multiple)
+&lt;/code>&lt;/pre>
+&lt;/aside>
+&lt;/li>
+&lt;li>
+&lt;p>Choose any number 1 &amp;lt; e &amp;lt; 780 that is coprime to 780. Choosing a prime number for e leaves us only to check that e is not a divisor of 780.&lt;/p>
+&lt;p>\begin{equation}
+e = 17
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Compute d, the modular multiplicative inverse of e (mod λ(n))&lt;/p>
+&lt;p>\begin{equation}
+d \times e \mod \lambda(n) = 1
+\&lt;br>
+413 \times 17 \mod 780 = 1
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Modular multiplicative inverse means d*e is congruent to 1 (mod λ(n))&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;ol>
+&lt;li>
+&lt;p>public key is (n = 3233, e = 17), with message m, encryption function is&lt;/p>
+&lt;p>\begin{equation}
+c(m) = m^{17} \mod 3233
+\&lt;br>
+c = 65^{17} \mod 3233 = 2790
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>private key is (n = 3233, d = 413), with ciphertext c, decryption function is&lt;/p>
+&lt;p>\begin{equation}
+m(c) = c^{413} \mod 3233
+\&lt;br>
+m = 2790^{413} \mod 3233 = 65
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="where-is-rsa-used">Where is RSA used&lt;/h3>
+&lt;ul>
+&lt;li>HTTPS&lt;/li>
+&lt;li>SSH&lt;/li>
+&lt;li>any TLS or SSL implementation&lt;/li>
+&lt;li>Email&lt;/li>
+&lt;li>PGP&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="key-exchanges">Key Exchanges&lt;/h2>
+&lt;ul>
+&lt;li>RSA is all well and good&lt;/li>
+&lt;li>But how do you securely exchange keys&lt;/li>
+&lt;li>This is where the Diffie–Hellman key exchange comes into play&lt;/li>
+&lt;/ul>
+&lt;h2 id="diffie-hellman">Diffie-Hellman&lt;/h2>
+&lt;ul>
+&lt;li>An algorithm for securely transferring keys publicly&lt;/li>
+&lt;li>Simple in design, yet surprisingly robust&lt;/li>
+&lt;/ul>
+&lt;h2 id="simple-overview">Simple overview&lt;/h2>
+&lt;h3 id="generating-initial-secrets">Generating Initial Secrets&lt;/h3>
+&lt;p>&lt;img src="talks.org_imgs/Crypto/diffie-helman-part1.png" alt="img">&lt;/p>
+&lt;h3 id="derriving-shared-secrets">Derriving Shared Secrets&lt;/h3>
+&lt;p>&lt;img src="talks.org_imgs/Crypto/diffie-helman-part2.png" alt="img">&lt;/p>
+&lt;hr>
+&lt;h2 id="hashes">Hashes&lt;/h2>
+&lt;ul>
+&lt;li>Hashes are unpredictable, random, digests of data.&lt;/li>
+&lt;li>They have a few key features:
+&lt;ul>
+&lt;li>Random, and completely unpredictable&lt;/li>
+&lt;li>One way, they cannot be easily reversed&lt;/li>
+&lt;li>Transform large data into small data of a known size&lt;/li>
+&lt;li>Unique, not likely that two pieces of data with the same hash&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="random">Random&lt;/h2>
+&lt;ul>
+&lt;li>Hashes should be sufficiently random&lt;/li>
+&lt;li>They should be virtually impossible to predict&lt;/li>
+&lt;/ul>
+&lt;h2 id="one-way">One way&lt;/h2>
+&lt;ul>
+&lt;li>Hashes should be impossible to reverse&lt;/li>
+&lt;li>The only way to find the original data is to brute force&lt;/li>
+&lt;/ul>
+&lt;h2 id="transform">Transform&lt;/h2>
+&lt;ul>
+&lt;li>Hashes should be able to represent larger data&lt;/li>
+&lt;li>They should be a known length&lt;/li>
+&lt;/ul>
+&lt;h2 id="unique">Unique&lt;/h2>
+&lt;ul>
+&lt;li>Hashes are flawed&lt;/li>
+&lt;li>Converting large data to small data will result in clashes&lt;/li>
+&lt;li>These are called collisions&lt;/li>
+&lt;li>A good hash should reduce the likely-hood of collisions&lt;/li>
+&lt;/ul>
+&lt;h2 id="uses-of-hashes">Uses of hashes&lt;/h2>
+&lt;ul>
+&lt;li>What&amp;rsquo;s the use-case?
+&lt;ul>
+&lt;li>Data/File verification&lt;/li>
+&lt;li>Storing passwords securely&lt;/li>
+&lt;li>Digital signing&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="caveats">Caveats&lt;/h2>
+&lt;ul>
+&lt;li>Not all hash algorithms are created equal&lt;/li>
+&lt;li>Use different ones for your use case&lt;/li>
+&lt;li>Storing passwords? Use CPU insensitive algorithms (BCrypt)&lt;/li>
+&lt;li>There&amp;rsquo;s more, but that&amp;rsquo;s for another talk&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="the-hidden-complexity">The hidden complexity&lt;/h2>
+&lt;ul>
+&lt;li>The maths behind cryptography is fairly straightforward&lt;/li>
+&lt;li>The maths is also very secure&lt;/li>
+&lt;li>The implementation may not be&lt;/li>
+&lt;/ul>
+&lt;h2 id="unsafe-implementation">Unsafe implementation&lt;/h2>
+&lt;ul>
+&lt;li>It&amp;rsquo;s easy to implement RSA or AES yourself&lt;/li>
+&lt;li>It&amp;rsquo;s easy to miss hidden complexities&lt;/li>
+&lt;li>It&amp;rsquo;s hard to generate sufficiently random numbers&lt;/li>
+&lt;li>It&amp;rsquo;s hard to avoid leaking information about the key&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="takeaways">Takeaways&lt;/h2>
+&lt;ul>
+&lt;li>Do not implement your own crypto&lt;/li>
+&lt;li>Do not implement an existing crypto&lt;/li>
+&lt;li>Use an existing implementation that&amp;rsquo;s been proven to work&lt;/li>
+&lt;li>Use Libsodium&lt;/li>
+&lt;li>Even if you do everything right it&amp;rsquo;s pointless since the AABill passed&lt;/li>
+&lt;/ul></description></item></channel></rss>

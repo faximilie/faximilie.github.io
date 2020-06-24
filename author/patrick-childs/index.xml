@@ -3,4 +3,823 @@
 &lt;p>Thus this identity, and by extension this website does not have much content. All my achievements are strewn across various identities.&lt;/p>
 &lt;p>While this Identity isn&amp;rsquo;t &lt;em>that&lt;/em> new, it&amp;rsquo;s not been utilized much. I&amp;rsquo;m going to start using it more for projects that don&amp;rsquo;t require separation of identities.&lt;/p>
 &lt;p>So hopefully this website will be more appealing to employers in the near future.&lt;/p></description></item><item><title>Hello Hugo</title><link>/post/hello-world/</link><pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate><guid>/post/hello-world/</guid><description>&lt;p>Hello, this is a very simple post to say that this website is now working. Built with hugo and the Academic hugo theme.&lt;/p>
-&lt;p>It&amp;rsquo;s very simple, hosted on github pages.&lt;/p></description></item></channel></rss>
+&lt;p>It&amp;rsquo;s very simple, hosted on github pages.&lt;/p></description></item><item><title>Becoming a Command Line Ninja</title><link>/publication/becoming-a-command-line-ninja/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>/publication/becoming-a-command-line-ninja/</guid><description/></item><item><title>Cryptography 101</title><link>/publication/cryptography-101/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>/publication/cryptography-101/</guid><description/></item><item><title>Malware: a Crash Course</title><link>/publication/malware-a-crash-course/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>/publication/malware-a-crash-course/</guid><description/></item><item><title>Becoming a Command Line Ninja</title><link>/slides/becoming-a-command-line-ninja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/slides/becoming-a-command-line-ninja/</guid><description>&lt;h1 id="becoming-a-command-line-ninja">Becoming a Command Line Ninja&lt;/h1>
+&lt;hr>
+&lt;h2 id="about-me">About me&lt;/h2>
+&lt;ul>
+&lt;li>Patrick Childs&lt;/li>
+&lt;li>Associate Global Tech ops Engineer at tigerspike&lt;/li>
+&lt;li>Terminal Junky&lt;/li>
+&lt;li>Really lazy&lt;/li>
+&lt;li>Like REALLY lazy&lt;/li>
+&lt;li>Hates typing&lt;/li>
+&lt;li>Hate mice even more&lt;/li>
+&lt;/ul>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>You may know me&lt;/li>
+&lt;li>Terminal junky
+&lt;ul>
+&lt;li>Made talk with CLI&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Lazy
+&lt;ul>
+&lt;li>Really lazy&lt;/li>
+&lt;li>bound nvim to v&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>I have an adversion to typing
+&lt;ul>
+&lt;li>GUIs require you to type more&lt;/li>
+&lt;li>can&amp;rsquo;t scipt GUIs&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="why-use-the-terminal">Why use the Terminal&lt;/h2>
+&lt;ul>
+&lt;li>Fast, and accurate&lt;/li>
+&lt;li>Mice suck&lt;/li>
+&lt;li>Allows scripting, which reduces repetition and thus mistakes&lt;/li>
+&lt;li>String commands together to fit your workflow&lt;/li>
+&lt;li>Unix Philosophy: Do one thing and do it well&lt;/li>
+&lt;/ul>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Mice suck
+&lt;ul>
+&lt;li>They&amp;rsquo;re slow and inaccurate&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Unix philosophy
+&lt;ul>
+&lt;li>Most CLI applications follow Unix philosohpy&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="example">Example&lt;/h2>
+&lt;p>![Finding the largest folder modified within 30 days](./CommandLineFu/Images/Largest folders modified in the last 30 days.png)&lt;/p>
+&lt;hr>
+&lt;h2 id="how-to-git-gud-with-the-cli">How to Git Gud with the CLI&lt;/h2>
+&lt;hr>
+&lt;h2 id="learn-coreutils">Learn CoreUtils&lt;/h2>
+&lt;ul>
+&lt;li>cat&lt;/li>
+&lt;li>Grep&lt;/li>
+&lt;li>sed&lt;/li>
+&lt;li>find&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="learn-to-modify-data">Learn to modify data&lt;/h2>
+&lt;ul>
+&lt;li>head&lt;/li>
+&lt;li>tail&lt;/li>
+&lt;li>awk&lt;/li>
+&lt;li>Everything is a list of strings&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="learn-to-use-the-shell">Learn to use the Shell&lt;/h2>
+&lt;p>![img](./CommandLineFu/Images/My Shell.png &amp;ldquo;My Shell&amp;rdquo;)&lt;/p>
+&lt;ul>
+&lt;li>BASH and ZSH are shells&lt;/li>
+&lt;li>It&amp;rsquo;s what you interact with&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="shell-shortcuts">Shell shortcuts&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Directory stack&lt;/p>
+&lt;ul>
+&lt;li>pushd&lt;/li>
+&lt;li>popd&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>History searching&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Parameter history&lt;/p>
+&lt;ul>
+&lt;li>!$&lt;/li>
+&lt;li>!2&lt;/li>
+&lt;li>&lt;code>sudo !!&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="stop-repeating-yourself">Stop repeating yourself&lt;/h2>
+&lt;ul>
+&lt;li>Learn to script&lt;/li>
+&lt;li>If you do it once, that&amp;rsquo;s already too many times&lt;/li>
+&lt;li>Do it now so you can be lazy later&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="find-hackable-programs">Find hackable programs&lt;/h2>
+&lt;ul>
+&lt;li>Means you can modify them to how &lt;strong>*you&lt;/strong> want&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="programs-like">Programs like&lt;/h2>
+&lt;ul>
+&lt;li>Ripgrep&lt;/li>
+&lt;li>FZF&lt;/li>
+&lt;li>Vim&lt;/li>
+&lt;li>Ranger&lt;/li>
+&lt;li>Tmux&lt;/li>
+&lt;li>FASD&lt;/li>
+&lt;li>Taskwarrior&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="programs-to-use">Programs to use&lt;/h2>
+&lt;hr>
+&lt;h2 id="ripgrep">Ripgrep&lt;/h2>
+&lt;ul>
+&lt;li>Source code searcher&lt;/li>
+&lt;li>Like grep, ack and the silver searcher&lt;/li>
+&lt;li>Super fast&lt;/li>
+&lt;li>Ignores &lt;code>.git&lt;/code>&lt;/li>
+&lt;li>Ignores based on &lt;code>.gitignore&lt;/code> and &lt;code>.ignore&lt;/code> files&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="fzf">FZF&lt;/h2>
+&lt;ul>
+&lt;li>Fuzzy searcher&lt;/li>
+&lt;li>Takes any line delimited input on &lt;code>STDIN&lt;/code>&lt;/li>
+&lt;li>Prints selected to &lt;code>STDOUT&lt;/code>&lt;/li>
+&lt;li>Without &lt;code>STDIN&lt;/code> defaults to files&lt;/li>
+&lt;li>Great for scripts&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="fzf-demo">FZF demo&lt;/h2>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Fuzzy files&lt;/li>
+&lt;li>Fuzzy git&lt;/li>
+&lt;li>Fuzzy history&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="ranger">Ranger&lt;/h2>
+&lt;ul>
+&lt;li>CLI File explorer&lt;/li>
+&lt;li>Powerful and scriptable&lt;/li>
+&lt;li>Knows when to defer tasks to other programs&lt;/li>
+&lt;li>Bulk renaming through text editing&lt;/li>
+&lt;li>Searching through FZF&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="ranger-demo">Ranger demo&lt;/h2>
+&lt;hr>
+&lt;h2 id="vim">Vim&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Vim is old&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vim is different&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vim is amazing&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vim is old&lt;/p>
+&lt;ul>
+&lt;li>Has it&amp;rsquo;s roots in an editor from the 1970s&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Vim is different&lt;/p>
+&lt;ul>
+&lt;li>It&amp;rsquo;s a modal editor&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="reasons-to-use-vim">Reasons to use vim&lt;/h2>
+&lt;ul>
+&lt;li>It&amp;rsquo;s fast to startup&lt;/li>
+&lt;li>It&amp;rsquo;s fast to use&lt;/li>
+&lt;li>It uses almost no memory&lt;/li>
+&lt;li>You&amp;rsquo;re already in the terminal, why bother with GUI&lt;/li>
+&lt;li>Reduces key presses&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="modal-editor">Modal Editor&lt;/h2>
+&lt;ul>
+&lt;li>Vim is a model editor&lt;/li>
+&lt;li>Based around the idea of making agnostic, atomic and repeatable
+changes&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="what-the-hell-does-that-mean">What the hell does that mean?&lt;/h2>
+&lt;ul>
+&lt;li>Surround this word with quotes&lt;/li>
+&lt;li>Delete 3 paragraphs&lt;/li>
+&lt;li>Swap every third word that matches what is in my clipboard&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="vim-plugins">Vim plugins&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Vim has at least 16000 plugins&lt;/p>
+&lt;ul>
+&lt;li>More than Sublime, or Atom&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Has own language called VimScript&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Plugins that integrate with FZF and Ripgrep&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Snippets&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="snippets">Snippets&lt;/h2>
+&lt;ul>
+&lt;li>UltiSnippets is probably the best around&lt;/li>
+&lt;li>Python and Vimscript evaluation of default values&lt;/li>
+&lt;/ul>
+&lt;p>Which means you can have it fill in the blanks programatically&lt;/p>
+&lt;hr>
+&lt;h2 id="vim-demo">Vim demo&lt;/h2>
+&lt;aside class="notes">
+Look through bkash find bkash.yaml filter lines to find rds template
+goto file fzf files make change show off magit
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="fasd">FASD&lt;/h2>
+&lt;ul>
+&lt;li>Frecencey fuzzy matching (frequency + recency)&lt;/li>
+&lt;li>F for files&lt;/li>
+&lt;li>A for All&lt;/li>
+&lt;li>S for interactive search&lt;/li>
+&lt;li>D for directories&lt;/li>
+&lt;li>Z for autojump to drectory&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="fasd-demo">Fasd demo&lt;/h2>
+&lt;hr>
+&lt;h2 id="tmux">TMux&lt;/h2>
+&lt;ul>
+&lt;li>Terminal multiplexer&lt;/li>
+&lt;li>Window manager for your terminal&lt;/li>
+&lt;li>Gives you windows, tabs, and sessions&lt;/li>
+&lt;li>Is scriptable, so you can make it create a workspace for a specific
+project&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="taskwarrior">Taskwarrior&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Hackable, extensible task management system&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Scriptable, and plugin support&lt;/p>
+&lt;ul>
+&lt;li>Bugwarrior - Email and Jira integration&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Time tracking&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tags (many to many)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Projects (many to one)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="takeaways">Takeaways&lt;/h2>
+&lt;ul>
+&lt;li>Stop repeating yourself (make scripts)&lt;/li>
+&lt;li>Be lazy and hate typing&lt;/li>
+&lt;li>Find ways you can integrate everything&lt;/li>
+&lt;li>Don&amp;rsquo;t be afraid to try new things and put some elbow grease into a
+task&lt;/li>
+&lt;/ul></description></item><item><title>Cryptography 101</title><link>/slides/cryptography-101/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/slides/cryptography-101/</guid><description>&lt;h1 id="cryptography-101">Cryptography 101&lt;/h1>
+&lt;hr>
+&lt;h2 id="what-is-cryptography">What is cryptography&lt;/h2>
+&lt;ul>
+&lt;li>The art of writing or solving codes.&lt;/li>
+&lt;li>Comes from the greek kryptos-graphein meaning hidden writing&lt;/li>
+&lt;li>The only mathematically sound security measure&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="brief-history">Brief history&lt;/h2>
+&lt;hr>
+&lt;h3 id="cesar-cipher">Cesar Cipher&lt;/h3>
+&lt;ul>
+&lt;li>Used by Cesar for personal communication in the 1st Century BCE&lt;/li>
+&lt;li>Simple substitution cipher&lt;/li>
+&lt;li>Can be easily cracked based on character frequency&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="enigma">Enigma&lt;/h3>
+&lt;ul>
+&lt;li>Used by Nazi Germany during WWII&lt;/li>
+&lt;li>Complex substitution cipher&lt;/li>
+&lt;li>Fatal flaw that no letter could be itself&lt;/li>
+&lt;li>Cracked by Alan Turing and his Team from the UK&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="the-big-change">The big change&lt;/h3>
+&lt;ul>
+&lt;li>Up until this point all ciphers where symmetric&lt;/li>
+&lt;li>Means the same key is used to encrypt and decrypt&lt;/li>
+&lt;li>How to share the key securely?&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="rsa">RSA&lt;/h3>
+&lt;ul>
+&lt;li>The first asymmetric cipher&lt;/li>
+&lt;li>Developed in 1977&lt;/li>
+&lt;li>Has two keys instead of one&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="asymmetric-cryptography">Asymmetric Cryptography&lt;/h2>
+&lt;h2 id="how-does-this-work">How does this work&lt;/h2>
+&lt;ul>
+&lt;li>Relies on one way math functions&lt;/li>
+&lt;li>Some mathematical functions are east to do one way, but hard to reverse&lt;/li>
+&lt;li>These are:
+&lt;ul>
+&lt;li>Multiplying primes&lt;/li>
+&lt;li>Modulus&lt;/li>
+&lt;li>Elliptic Curves&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="primes">Primes&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Multiplying two primes&lt;/p>
+&lt;p>\begin{equation}
+7 \times 13 = 91 \text{(Easy)}
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Factoring a product of two primes&lt;/p>
+&lt;p>\begin{equation}
+a \times b = 68 \text{(Hard)}
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="modulus">Modulus&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Modulus is the remainder&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Like a clock&lt;/p>
+&lt;p>\begin{equation}
+13 \mod 12 = 1
+\end{equation}&lt;/p>
+&lt;p>\begin{equation}
+16 \mod 12 = 4
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Doing reverse is hard&lt;/p>
+&lt;p>\begin{equation}
+a \mod 10 = 5
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>what is a?&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>5, 15, 25, 55, 105, or 900000005?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="elliptic-curves">Elliptic Curves&lt;/h3>
+&lt;ul>
+&lt;li>Way out of the scope of this talk&lt;/li>
+&lt;li>Basically using curve functions to calculate data&lt;/li>
+&lt;li>Think parabolas and such&lt;/li>
+&lt;/ul>
+&lt;h2 id="rsa-1">RSA&lt;/h2>
+&lt;ul>
+&lt;li>Relies on Primes and Modulus&lt;/li>
+&lt;li>Private and public keys&lt;/li>
+&lt;li>Keys are just prime numbers&lt;/li>
+&lt;li>You can encrypt with public or private&lt;/li>
+&lt;li>Whatever key you do an operation with, you will need the opposite key to
+reverse it&lt;/li>
+&lt;li>If you encrypt with private, you can only decrypt with public&lt;/li>
+&lt;/ul>
+&lt;h3 id="example">Example&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Choose two distinct prime numbers&lt;/p>
+&lt;p>\begin{equation}
+p=61
+\&lt;br>
+q=51
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Compute n = pq&lt;/p>
+&lt;p>\begin{equation}
+n = 61 \times 53 = 3233
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Compute the Carmichael&amp;rsquo;s totient function of the product as λ(n) = lcm(p − 1, q − 1)&lt;/p>
+&lt;p>\begin{equation}
+\lambda(n) = \text{lcm}(60, 52) = 780
+\end{equation}&lt;/p>
+&lt;aside class="notes">
+&lt;pre>&lt;code>- Sounds complex
+- Gives us an exponent so that any coprime of n when given that a&amp;lt;sup&amp;gt;m&amp;lt;/sup&amp;gt; mod n = 1
+where a is the coprime
+- What's a coprime? Two integers that the only common divisor is 1
+- We can calculate totient using LCM (least common multiple)
+&lt;/code>&lt;/pre>
+&lt;/aside>
+&lt;/li>
+&lt;li>
+&lt;p>Choose any number 1 &amp;lt; e &amp;lt; 780 that is coprime to 780. Choosing a prime number for e leaves us only to check that e is not a divisor of 780.&lt;/p>
+&lt;p>\begin{equation}
+e = 17
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Compute d, the modular multiplicative inverse of e (mod λ(n))&lt;/p>
+&lt;p>\begin{equation}
+d \times e \mod \lambda(n) = 1
+\&lt;br>
+413 \times 17 \mod 780 = 1
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Modular multiplicative inverse means d*e is congruent to 1 (mod λ(n))&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;ol>
+&lt;li>
+&lt;p>public key is (n = 3233, e = 17), with message m, encryption function is&lt;/p>
+&lt;p>\begin{equation}
+c(m) = m^{17} \mod 3233
+\&lt;br>
+c = 65^{17} \mod 3233 = 2790
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>private key is (n = 3233, d = 413), with ciphertext c, decryption function is&lt;/p>
+&lt;p>\begin{equation}
+m(c) = c^{413} \mod 3233
+\&lt;br>
+m = 2790^{413} \mod 3233 = 65
+\end{equation}&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="where-is-rsa-used">Where is RSA used&lt;/h3>
+&lt;ul>
+&lt;li>HTTPS&lt;/li>
+&lt;li>SSH&lt;/li>
+&lt;li>any TLS or SSL implementation&lt;/li>
+&lt;li>Email&lt;/li>
+&lt;li>PGP&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="key-exchanges">Key Exchanges&lt;/h2>
+&lt;ul>
+&lt;li>RSA is all well and good&lt;/li>
+&lt;li>But how do you securely exchange keys&lt;/li>
+&lt;li>This is where the Diffie–Hellman key exchange comes into play&lt;/li>
+&lt;/ul>
+&lt;h2 id="diffie-hellman">Diffie-Hellman&lt;/h2>
+&lt;ul>
+&lt;li>An algorithm for securely transferring keys publicly&lt;/li>
+&lt;li>Simple in design, yet surprisingly robust&lt;/li>
+&lt;/ul>
+&lt;h2 id="simple-overview">Simple overview&lt;/h2>
+&lt;h3 id="generating-initial-secrets">Generating Initial Secrets&lt;/h3>
+&lt;p>&lt;img src="talks.org_imgs/Crypto/diffie-helman-part1.png" alt="img">&lt;/p>
+&lt;h3 id="derriving-shared-secrets">Derriving Shared Secrets&lt;/h3>
+&lt;p>&lt;img src="talks.org_imgs/Crypto/diffie-helman-part2.png" alt="img">&lt;/p>
+&lt;hr>
+&lt;h2 id="hashes">Hashes&lt;/h2>
+&lt;ul>
+&lt;li>Hashes are unpredictable, random, digests of data.&lt;/li>
+&lt;li>They have a few key features:
+&lt;ul>
+&lt;li>Random, and completely unpredictable&lt;/li>
+&lt;li>One way, they cannot be easily reversed&lt;/li>
+&lt;li>Transform large data into small data of a known size&lt;/li>
+&lt;li>Unique, not likely that two pieces of data with the same hash&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="random">Random&lt;/h2>
+&lt;ul>
+&lt;li>Hashes should be sufficiently random&lt;/li>
+&lt;li>They should be virtually impossible to predict&lt;/li>
+&lt;/ul>
+&lt;h2 id="one-way">One way&lt;/h2>
+&lt;ul>
+&lt;li>Hashes should be impossible to reverse&lt;/li>
+&lt;li>The only way to find the original data is to brute force&lt;/li>
+&lt;/ul>
+&lt;h2 id="transform">Transform&lt;/h2>
+&lt;ul>
+&lt;li>Hashes should be able to represent larger data&lt;/li>
+&lt;li>They should be a known length&lt;/li>
+&lt;/ul>
+&lt;h2 id="unique">Unique&lt;/h2>
+&lt;ul>
+&lt;li>Hashes are flawed&lt;/li>
+&lt;li>Converting large data to small data will result in clashes&lt;/li>
+&lt;li>These are called collisions&lt;/li>
+&lt;li>A good hash should reduce the likely-hood of collisions&lt;/li>
+&lt;/ul>
+&lt;h2 id="uses-of-hashes">Uses of hashes&lt;/h2>
+&lt;ul>
+&lt;li>What&amp;rsquo;s the use-case?
+&lt;ul>
+&lt;li>Data/File verification&lt;/li>
+&lt;li>Storing passwords securely&lt;/li>
+&lt;li>Digital signing&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="caveats">Caveats&lt;/h2>
+&lt;ul>
+&lt;li>Not all hash algorithms are created equal&lt;/li>
+&lt;li>Use different ones for your use case&lt;/li>
+&lt;li>Storing passwords? Use CPU insensitive algorithms (BCrypt)&lt;/li>
+&lt;li>There&amp;rsquo;s more, but that&amp;rsquo;s for another talk&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="the-hidden-complexity">The hidden complexity&lt;/h2>
+&lt;ul>
+&lt;li>The maths behind cryptography is fairly straightforward&lt;/li>
+&lt;li>The maths is also very secure&lt;/li>
+&lt;li>The implementation may not be&lt;/li>
+&lt;/ul>
+&lt;h2 id="unsafe-implementation">Unsafe implementation&lt;/h2>
+&lt;ul>
+&lt;li>It&amp;rsquo;s easy to implement RSA or AES yourself&lt;/li>
+&lt;li>It&amp;rsquo;s easy to miss hidden complexities&lt;/li>
+&lt;li>It&amp;rsquo;s hard to generate sufficiently random numbers&lt;/li>
+&lt;li>It&amp;rsquo;s hard to avoid leaking information about the key&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="takeaways">Takeaways&lt;/h2>
+&lt;ul>
+&lt;li>Do not implement your own crypto&lt;/li>
+&lt;li>Do not implement an existing crypto&lt;/li>
+&lt;li>Use an existing implementation that&amp;rsquo;s been proven to work&lt;/li>
+&lt;li>Use Libsodium&lt;/li>
+&lt;li>Even if you do everything right it&amp;rsquo;s pointless since the AABill passed&lt;/li>
+&lt;/ul></description></item><item><title>Malware a Crash Course</title><link>/slides/malware-a-crash-course/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/slides/malware-a-crash-course/</guid><description>&lt;h1 id="malware-a-crash-course">Malware: a Crash Course&lt;/h1>
+&lt;hr>
+&lt;h2 id="what-is-malware">What is malware&lt;/h2>
+&lt;ul>
+&lt;li>Any malicious software&lt;/li>
+&lt;li>Worms, viruses, trojans, etc&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="who-makes-malware">Who makes malware&lt;/h2>
+&lt;ul>
+&lt;li>Russians&lt;/li>
+&lt;/ul>
+&lt;aside class="notes">
+Russian law where they only charge people who commit cybercrime against Russians
+Effective method of avoiding infection is to set your default language to Russian
+&lt;/aside>
+&lt;ul>
+&lt;li>teenagers from US, CA, UK, and AU&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="overview-of-terms">Overview of terms&lt;/h2>
+&lt;ul>
+&lt;li>Terms are not mutually exclusive&lt;/li>
+&lt;li>malware can leverage different features and be labeled different ways&lt;/li>
+&lt;/ul>
+&lt;h2 id="trojans">Trojans&lt;/h2>
+&lt;ul>
+&lt;li>Malware hidden in legitimate software&lt;/li>
+&lt;li>Usually done by binding or backdooring legitimate software&lt;/li>
+&lt;li>Usually found in torrents&lt;/li>
+&lt;/ul>
+&lt;h2 id="worms">Worms&lt;/h2>
+&lt;ul>
+&lt;li>Malware that automatically spreads without user interaction&lt;/li>
+&lt;li>Usually exploits network vulnerabilities&lt;/li>
+&lt;li>Not common anymore, although Wannacry was an exception&lt;/li>
+&lt;/ul>
+&lt;h2 id="spyware">Spyware&lt;/h2>
+&lt;ul>
+&lt;li>Spyware is malware that is often legitimate in some respect&lt;/li>
+&lt;li>but will steal and siphon data away&lt;/li>
+&lt;/ul>
+&lt;h2 id="viruses">Viruses&lt;/h2>
+&lt;ul>
+&lt;li>Self replicating malware&lt;/li>
+&lt;li>The term is not often used outside of pop culture as it&amp;rsquo;s ill defined&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="major-types-of-malware">Major types of malware&lt;/h2>
+&lt;h2 id="rootkits">Rootkits&lt;/h2>
+&lt;ul>
+&lt;li>Complicated methods of hiding aspects of malware&lt;/li>
+&lt;li>Usually hiding files, registry keys, and network connections from the system&lt;/li>
+&lt;li>Usually Ring3 (userland) based&lt;/li>
+&lt;li>Sometimes Ring0 (kernal) based&lt;/li>
+&lt;li>Very occasionally a bootkit (bios rootkit)&lt;/li>
+&lt;/ul>
+&lt;h3 id="rings">Rings&lt;/h3>
+&lt;ul>
+&lt;li>Rings are the level of access&lt;/li>
+&lt;li>there&amp;rsquo;s usually two major ones
+&lt;ul>
+&lt;li>Ring 3 - The userland where most applications will run&lt;/li>
+&lt;li>Ring 0 - The kernel where most drivers and the operating system will run&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Having a lower ring means you can hook System calls first&lt;/li>
+&lt;/ul>
+&lt;h3 id="system-calls">System calls&lt;/h3>
+&lt;ul>
+&lt;li>System calls are what applications use to communicate with the OS and hardware&lt;/li>
+&lt;li>there are system calls for reading files, making network connections, etc&lt;/li>
+&lt;li>All abstracted to be non-hardware specific&lt;/li>
+&lt;/ul>
+&lt;h3 id="hooking">Hooking&lt;/h3>
+&lt;ul>
+&lt;li>Rootkits work by hooking system calls and intercepting the data between the OS
+and the application&lt;/li>
+&lt;li>There are a LOT of ways to do this&lt;/li>
+&lt;li>They often go down the chain, where the first hook will be called first&lt;/li>
+&lt;li>Thus getting the first hook is crucial in correctly intercepting data&lt;/li>
+&lt;li>Anti-viruses will also hook system calls to check for rootkits and suspicious behavior&lt;/li>
+&lt;/ul>
+&lt;h2 id="loaders">Loaders&lt;/h2>
+&lt;ul>
+&lt;li>Malware specifically designed to provide strong persistence on a compromised system&lt;/li>
+&lt;li>It&amp;rsquo;s job is to make sure no Anti-Virus or User can remove it&lt;/li>
+&lt;li>It often utilizes rootkits to achieve it&amp;rsquo;s goal&lt;/li>
+&lt;li>It only exists to provide baseline persistence and load more specialized
+malware onto a system&lt;/li>
+&lt;li>a Prominent example is Smoke Loader&lt;/li>
+&lt;/ul>
+&lt;h2 id="rats">RATs&lt;/h2>
+&lt;ul>
+&lt;li>Remote Administration Trojans&lt;/li>
+&lt;li>Truely the most prolific malware type&lt;/li>
+&lt;li>Used by teenagers to dip their toe into cybercrime&lt;/li>
+&lt;li>They provide intimate access to a compromised computer as opposed to more
+sophisticated malware such as botnets&lt;/li>
+&lt;li>Allowing remote desktop, access to the webcam, keylogger, chats, and even
+functions to troll the user (ejecting CD drive)&lt;/li>
+&lt;li>Relatively cheap $20 a license with the ability to generate new payloads at will&lt;/li>
+&lt;li>Most prominent RATs are:
+&lt;ul>
+&lt;li>Blackshades&lt;/li>
+&lt;li>DarkComet&lt;/li>
+&lt;li>jRAT&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="botnets">Botnets&lt;/h2>
+&lt;ul>
+&lt;li>Botnet is an umbrella term for malware that is designed to collect a large
+amount of compromised hosts and create a network of bots&lt;/li>
+&lt;li>They&amp;rsquo;re often another type of malware in conjunction with this&lt;/li>
+&lt;li>They&amp;rsquo;re designed for controlling thousands if not millions of compromised hosts&lt;/li>
+&lt;li>Very expensive, $100s of dollars for a payload to be generated by the author&lt;/li>
+&lt;li>This is in stark contrast to RATs&lt;/li>
+&lt;li>Prominent examples are:
+&lt;ul>
+&lt;li>Betabot&lt;/li>
+&lt;li>Andromeda&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="banking-trojans">Banking Trojans&lt;/h2>
+&lt;ul>
+&lt;li>Banking trojans are unique and powerful&lt;/li>
+&lt;li>They&amp;rsquo;re specifically designed to defeat all verifications banks put in their
+web pages&lt;/li>
+&lt;li>They can defeat encryption by hooking browser networking functions&lt;/li>
+&lt;li>intercept HTTP(S) POST requests skimming data (logins, credit
+card numbers, etc)&lt;/li>
+&lt;li>intercept incoming HTTP(S) traffic and inject malicious javascript&lt;/li>
+&lt;li>They can then automatically siphon money from the account and hide the transactions&lt;/li>
+&lt;li>All generally cloned from zeus&amp;rsquo;s leaked source code&lt;/li>
+&lt;li>Absurdly expensive, usually upwards of $1000 for a single payload generated by sellers&lt;/li>
+&lt;li>Prominent examples:
+&lt;ul>
+&lt;li>Zeus&lt;/li>
+&lt;li>SpyEye&lt;/li>
+&lt;li>Citadel&lt;/li>
+&lt;li>Kronus&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="pos-malware">POS malware&lt;/h2>
+&lt;ul>
+&lt;li>Attacks Point of sales machines&lt;/li>
+&lt;li>Constantly scans memory for credit card numbers&lt;/li>
+&lt;li>Where most credit cards are stolen from&lt;/li>
+&lt;/ul>
+&lt;h2 id="ransomware">Ransomware&lt;/h2>
+&lt;ul>
+&lt;li>Also known as Cryptolockers&lt;/li>
+&lt;li>Restrict access to the system and demand a payment&lt;/li>
+&lt;li>Usually this is done by encrypting files&lt;/li>
+&lt;li>Very common these days&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="design-choices">Design choices&lt;/h2>
+&lt;h2 id="os-choice">OS Choice&lt;/h2>
+&lt;ul>
+&lt;li>Malware is often only made for windows as it represents the largest market share&lt;/li>
+&lt;li>This is not to say there isn&amp;rsquo;t malware for Linux/MacOS/BSD, they are just much
+less common&lt;/li>
+&lt;/ul>
+&lt;h2 id="language-choice">Language choice&lt;/h2>
+&lt;ul>
+&lt;li>Malware is often written in C, C++, Delphi, and VB6&lt;/li>
+&lt;li>This is to avoid depending on libraries having being installed on the system
+(.NET or Java)&lt;/li>
+&lt;/ul>
+&lt;h2 id="compactness-and-modularity">Compactness and modularity&lt;/h2>
+&lt;ul>
+&lt;li>Malware is often designed to be compact and small to allow it to be downloaded
+remotely over slow connections&lt;/li>
+&lt;li>This leads to modularization, lots of complicated malware will segment it&amp;rsquo;s
+capabilities into modules that will be loaded when needed&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="side-note-crypters">Side note: Crypters&lt;/h2>
+&lt;ul>
+&lt;li>Crypters encrypt payloads to avoid anti-virus detection&lt;/li>
+&lt;li>Relatively cheap&lt;/li>
+&lt;li>When no Anti-virus detects it it&amp;rsquo;s called FUD&lt;/li>
+&lt;li>Protection only lasts a few weeks, so older files are safer.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="infection-vectors">Infection Vectors&lt;/h2>
+&lt;ul>
+&lt;li>There are a lot of ways people look to infect victims with a malicious payload&lt;/li>
+&lt;li>Each type of malware usually has a specific method of infection designed to
+target specific demographics&lt;/li>
+&lt;/ul>
+&lt;h2 id="pirated-software">Pirated software&lt;/h2>
+&lt;ul>
+&lt;li>Pirated software is commonly infected, usually a malicious payload is
+binded to existing torrents, crypted to avoid detection, and uploaded.&lt;/li>
+&lt;li>Sites like the pirate bay are pretty good at taking down infected uploads&lt;/li>
+&lt;li>KAT is not so great&lt;/li>
+&lt;li>This is mainly used by owners of RAT networks, as it&amp;rsquo;s easy and low cost.&lt;/li>
+&lt;/ul>
+&lt;h2 id="drive-bys">Drive bys&lt;/h2>
+&lt;ul>
+&lt;li>A common method botnet owners use to gain a large number of infected hosts&lt;/li>
+&lt;li>Has 3 major components
+&lt;ul>
+&lt;li>Exploit kit&lt;/li>
+&lt;li>Compromised sites&lt;/li>
+&lt;li>Payload&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Often used to target 3rd world countries&lt;/li>
+&lt;/ul>
+&lt;h3 id="exploit-kit">Exploit Kit&lt;/h3>
+&lt;ul>
+&lt;li>An exploit kit is a piece of software designed to select an exploit that will
+be effective against an unpatched piece of software (IE 8, old flash, etc)&lt;/li>
+&lt;li>They are usually rented on a daily basis for $300+/day&lt;/li>
+&lt;li>RIG Exploit Kit is the most common used&lt;/li>
+&lt;/ul>
+&lt;h3 id="legitimate-compromised-site">Legitimate Compromised site&lt;/h3>
+&lt;ul>
+&lt;li>You need to get traffic to an exploit kit&lt;/li>
+&lt;li>This is usually done through exploiting legit sites and placing iframes to the
+exploit kit&lt;/li>
+&lt;li>Sometimes done through malicious advertisements as well&lt;/li>
+&lt;/ul>
+&lt;h3 id="the-payload">The payload&lt;/h3>
+&lt;ul>
+&lt;li>Often the space to run code after an exploit is small&lt;/li>
+&lt;li>Often just enough to download and execute an additional stage&lt;/li>
+&lt;/ul>
+&lt;h2 id="malicious-mail-attachments">Malicious mail attachments&lt;/h2>
+&lt;ul>
+&lt;li>Saw a dip in popularity during the early 2000s&lt;/li>
+&lt;li>On the rise with cryptolockers&lt;/li>
+&lt;li>Usually abuse Word macros to execute payloads&lt;/li>
+&lt;li>Often targeting business specifically&lt;/li>
+&lt;/ul></description></item></channel></rss>
