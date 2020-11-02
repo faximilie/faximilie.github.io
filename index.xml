@@ -114,12 +114,7 @@ open it in outlook.&lt;/p>
 &lt;pre>&lt;code class="language-emacs-lisp">(add-to-list 'org-capture-templates '(&amp;quot;o&amp;quot; &amp;quot;Outlook item to capture&amp;quot; entry
 (file+headline &amp;quot;~/Documents/Notes/inbox.org&amp;quot; &amp;quot;Tasks&amp;quot;)
 &amp;quot;* TODO [[outlook:%:link][%^{Item name|Email}]]&amp;quot; :clock-in t :clock-resume t))
-&lt;/code>&lt;/pre>
-&lt;link rel="stylesheet"
-href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.3.2/styles/default.min.css">
-&lt;script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.3.2/highlight.min.js">&lt;/script>
-&lt;script charset="UTF-8" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.3.2/languages/applescript.min.js">&lt;/script>
-&lt;script charset="UTF-8" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.3.2/languages/lisp.min.js">&lt;/script></description></item><item><title>Multi-media Madness</title><link>/post/multi-media-madness/</link><pubDate>Sun, 21 Jun 2020 14:43:59 +1000</pubDate><guid>/post/multi-media-madness/</guid><description>&lt;h2 id="the-problem">The problem&lt;/h2>
+&lt;/code>&lt;/pre></description></item><item><title>Multi-media Madness</title><link>/post/multi-media-madness/</link><pubDate>Sun, 21 Jun 2020 14:43:59 +1000</pubDate><guid>/post/multi-media-madness/</guid><description>&lt;h2 id="the-problem">The problem&lt;/h2>
 &lt;p>So I&amp;rsquo;m a bit of a weeb, and enjoy watching anime from time to time. However I often find myself forgetting my place during the weeks between episodes. This often leads me to drop an anime because I can&amp;rsquo;t find the right episode before losing motivation.&lt;/p>
 &lt;p>I also have the issue of friends recommending me an anime, and I will forget it well before I get a chance to watch it.&lt;/p>
 &lt;p>Enter Anilist/MyAnimeList, the anime tracking services similar to track.tv. This fixes both problems of tracking watched episodes, and new series to watch. However it introduces new issues, manually updating watched status.&lt;/p>

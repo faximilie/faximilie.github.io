@@ -114,9 +114,4 @@ open it in outlook.&lt;/p>
 &lt;pre>&lt;code class="language-emacs-lisp">(add-to-list 'org-capture-templates '(&amp;quot;o&amp;quot; &amp;quot;Outlook item to capture&amp;quot; entry
 (file+headline &amp;quot;~/Documents/Notes/inbox.org&amp;quot; &amp;quot;Tasks&amp;quot;)
 &amp;quot;* TODO [[outlook:%:link][%^{Item name|Email}]]&amp;quot; :clock-in t :clock-resume t))
-&lt;/code>&lt;/pre>
-&lt;link rel="stylesheet"
-href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.3.2/styles/default.min.css">
-&lt;script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.3.2/highlight.min.js">&lt;/script>
-&lt;script charset="UTF-8" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.3.2/languages/applescript.min.js">&lt;/script>
-&lt;script charset="UTF-8" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.3.2/languages/lisp.min.js">&lt;/script></description></item></channel></rss>
+&lt;/code>&lt;/pre></description></item></channel></rss>
