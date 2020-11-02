@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>applescript | Faximilie</title><link>/tag/applescript/</link><atom:link href="/tag/applescript/index.xml" rel="self" type="application/rss+xml"/><description>applescript</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Oct 2020 15:45:00 +1100</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>applescript</title><link>/tag/applescript/</link></image><item><title>Outlook Org-mode integration on MacOS</title><link>/post/outlook-org-macos/</link><pubDate>Fri, 30 Oct 2020 15:45:00 +1100</pubDate><guid>/post/outlook-org-macos/</guid><description>&lt;script charset="UTF-8" src="&lt;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.3.2/languages/applescript.min.js>">&lt;/script>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>applescript | Faximilie</title><link>/tag/applescript/</link><atom:link href="/tag/applescript/index.xml" rel="self" type="application/rss+xml"/><description>applescript</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Oct 2020 15:45:00 +1100</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>applescript</title><link>/tag/applescript/</link></image><item><title>Outlook Org-mode integration on MacOS</title><link>/post/outlook-org-macos/</link><pubDate>Fri, 30 Oct 2020 15:45:00 +1100</pubDate><guid>/post/outlook-org-macos/</guid><description>&lt;div class="HTML">
+&lt;div>&lt;/div>
+&lt;script charset="UTF-8" src="&lt;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.3.2/languages/applescript.min.js>">&lt;/script>
 &lt;script charset="UTF-8" src="&lt;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.3.2/languages/lisp.min.js>">&lt;/script>
+&lt;/div>
 &lt;h2 id="motivation">Motivation&lt;/h2>
 &lt;p>So a lot of my notes and tasks will require me to reference outlook items,
 either emails or meetings.&lt;/p>
@@ -66,7 +69,12 @@ trigger when Outlook is focused.&lt;/p>
 &amp;quot;bundle_identifiers&amp;quot;: [&amp;quot;^com\\.microsoft\\.Outlook$&amp;quot;]
 }
 ]
+}
+]
 },
+{
+&amp;quot;description&amp;quot;: &amp;quot;Meta-L to copy outlook item to orgmode&amp;quot;,
+&amp;quot;manipulators&amp;quot;: [
 {
 &amp;quot;type&amp;quot;: &amp;quot;basic&amp;quot;,
 &amp;quot;from&amp;quot;: {
